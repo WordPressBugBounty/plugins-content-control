@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'code-atlantic/content-control',
-        'pretty_version' => '2.6.2',
-        'version' => '2.6.2.0',
-        'reference' => null,
+        'pretty_version' => 'v2.6.3',
+        'version' => '2.6.3.0',
+        'reference' => 'ab20fd84f3fc22199e8bb0df331f2af58d97315f',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'code-atlantic/content-control' => array(
-            'pretty_version' => '2.6.2',
-            'version' => '2.6.2.0',
-            'reference' => null,
+            'pretty_version' => 'v2.6.3',
+            'version' => '2.6.3.0',
+            'reference' => 'ab20fd84f3fc22199e8bb0df331f2af58d97315f',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
